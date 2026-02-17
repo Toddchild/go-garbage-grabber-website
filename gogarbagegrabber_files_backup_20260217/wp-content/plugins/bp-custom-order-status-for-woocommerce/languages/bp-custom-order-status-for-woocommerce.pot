@@ -1,0 +1,349 @@
+# Copyright (C) 2023 Bright Plugins
+# This file is distributed under the same license as the Custom Order Status Manager for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Order Status Manager for WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bp-custom-order-status-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-27T15:07:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: bp-custom-order-status\n"
+
+#. Plugin Name of the plugin
+msgid "Custom Order Status Manager for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/bp-custom-order-status-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows you to create, delete and edit order statuses to better control the flow of your orders."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bright Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://brightplugins.com"
+msgstr ""
+
+#: main.php:102
+msgid "Oops! looks like WooCommerce is disabled. Please, enable it in order to use BP Custom Order Status for WooCommerce."
+msgstr ""
+
+#: src/Cpt.php:40
+msgid "Order Status Options"
+msgstr ""
+
+#: src/Cpt.php:73
+msgid "* Without wc- prefix"
+msgstr ""
+
+#: src/Cpt.php:74
+msgid "Do not use more than 17 characters, do not begin with numbers, and do not use a name that is solely numbered(ex: 3456).<br>Avoid using accents or special characters. Otherwise, until you modify the order status, your orders may be concealed on the orders list."
+msgstr ""
+
+#: src/Cpt.php:81
+#: src/Cpt.php:91
+msgid "Status Icon"
+msgstr ""
+
+#: src/Cpt.php:87
+msgid "Status View"
+msgstr ""
+
+#: src/Cpt.php:88
+msgid "Choose where the icon should be placed. If icon is not set this option is ignored.<p> Show Name: Icon will be used only on actions area<br>Show Icon: Icon will replace the status name on Orders page"
+msgstr ""
+
+#: src/Cpt.php:92
+#: src/StatusColums.php:21
+msgid "Status Name"
+msgstr ""
+
+#: src/Cpt.php:100
+msgid "Color"
+msgstr ""
+
+#: src/Cpt.php:101
+msgid "This color is applied to the Text and to the Icon"
+msgstr ""
+
+#: src/Cpt.php:107
+msgid "Text Background Color"
+msgstr ""
+
+#: src/Cpt.php:113
+msgid "Paid Status"
+msgstr ""
+
+#: src/Cpt.php:114
+msgid "Enable if order on this status has been paid"
+msgstr ""
+
+#: src/Cpt.php:120
+msgid "Download Access"
+msgstr ""
+
+#: src/Cpt.php:121
+msgid "Enable this option to grant access to downloads when orders are on this status"
+msgstr ""
+
+#: src/Cpt.php:127
+msgid "Add to actions on orders page"
+msgstr ""
+
+#: src/Cpt.php:133
+msgid "Add to bulk actions list"
+msgstr ""
+
+#: src/Cpt.php:134
+msgid "Enable to add this order status in the Bulk Actions list."
+msgstr ""
+
+#: src/Cpt.php:140
+msgid "Edit Mode"
+msgstr ""
+
+#: src/Cpt.php:141
+msgid "Enable this to edit order data at this status."
+msgstr ""
+
+#: src/Cpt.php:147
+msgid "Email Notification"
+msgstr ""
+
+#: src/Cpt.php:148
+msgid "Enable this if you want notify by email when order status change to this status"
+msgstr ""
+
+#: src/Cpt.php:154
+msgid "Email Recipient"
+msgstr ""
+
+#: src/Cpt.php:167
+msgid "Send a copy to these emails"
+msgstr ""
+
+#: src/Cpt.php:212
+msgctxt "custom_order_status"
+msgid "Order Status"
+msgstr ""
+
+#: src/Cpt.php:213
+msgctxt "post type singular name"
+msgid "Order Status"
+msgstr ""
+
+#: src/Cpt.php:214
+msgctxt "admin menu"
+msgid "Order Status"
+msgstr ""
+
+#: src/Cpt.php:215
+msgctxt "add new on admin bar"
+msgid "Order Status"
+msgstr ""
+
+#: src/Cpt.php:216
+msgctxt "custom_order_status"
+msgid "Add New"
+msgstr ""
+
+#: src/Cpt.php:217
+msgid "Add New  Order Status"
+msgstr ""
+
+#: src/Cpt.php:218
+msgid "New  Order Status"
+msgstr ""
+
+#: src/Cpt.php:219
+msgid "Edit  Order Status"
+msgstr ""
+
+#: src/Cpt.php:220
+msgid "View  Order Status"
+msgstr ""
+
+#: src/Cpt.php:221
+msgid "All  Order Status"
+msgstr ""
+
+#: src/Cpt.php:222
+msgid "Search  Order Status"
+msgstr ""
+
+#: src/Cpt.php:223
+msgid "Parent  Order Status:"
+msgstr ""
+
+#: src/Cpt.php:224
+msgid "No  Order Status found."
+msgstr ""
+
+#: src/Cpt.php:225
+msgid "No  Order Status found in Trash."
+msgstr ""
+
+#: src/Cpt.php:230
+msgid "Description."
+msgstr ""
+
+#: src/emails/class-wcbv-order-status-email.php:14
+#: src/emails/class-wcbv-order-status-email.php:17
+msgid "Regarding your {site_title} order from {order_date}"
+msgstr ""
+
+#: src/emails/class-wcbv-order-status-email.php:15
+#: src/emails/class-wcbv-order-status-email.php:34
+msgid "Your order is now {order_status}. Order details are shown below for your reference:"
+msgstr ""
+
+#: src/emails/class-wcbv-order-status-email.php:32
+#: src/emails/class-wcbv-order-status-email.php:59
+msgid "Order status changed to {order_status}"
+msgstr ""
+
+#: src/emails/class-wcbv-order-status-email.php:33
+msgid "Regarding your {site_title} order!"
+msgstr ""
+
+#: src/emails/class-wcbv-order-status-email.php:37
+msgid "Customer"
+msgstr ""
+
+#: src/emails/class-wcbv-order-status-email.php:60
+msgid "[{site_title}] Customer order #{order_number} updated"
+msgstr ""
+
+#: src/emails/class-wcbv-order-status-email.php:61
+msgid "This order is now {order_status}. Order details are as follows:"
+msgstr ""
+
+#: src/Settings.php:19
+msgid "Custom Status Settings"
+msgstr ""
+
+#: src/Settings.php:32
+msgid "Settings"
+msgstr ""
+
+#: src/Settings.php:65
+msgid "Default Order Status"
+msgstr ""
+
+#: src/Settings.php:73
+msgid "Preorder Transition Status"
+msgstr ""
+
+#: src/Settings.php:80
+msgid "Enable WPML compatibility"
+msgstr ""
+
+#: src/Settings.php:83
+msgid "It shows the status name on the current language"
+msgstr ""
+
+#: src/Settings.php:84
+msgid "Keep disabled if find any issue"
+msgstr ""
+
+#: src/Settings.php:116
+msgid "Order on this payment method will change to this status "
+msgstr ""
+
+#: src/Settings.php:152
+msgid "Support"
+msgstr ""
+
+#: src/Status.php:33
+msgid "Paid"
+msgstr ""
+
+#. translators: 1: payment date. 2: payment method
+#: src/Status.php:45
+msgid "%1$s via %2$s"
+msgstr ""
+
+#. translators: Custom Order Status Name
+#: src/Status.php:217
+msgid "Change status to %s"
+msgstr ""
+
+#: src/Status.php:406
+msgid "Complete"
+msgstr ""
+
+#: src/StatusColums.php:22
+msgid "Status Preview"
+msgstr ""
+
+#: src/StatusColums.php:23
+msgid "Email Recipient(s)"
+msgstr ""
+
+#: src/StatusColums.php:24
+msgid "Email Template"
+msgstr ""
+
+#: src/StatusColums.php:25
+msgid "Date"
+msgstr ""
+
+#: src/StatusColums.php:56
+msgid "Edit Template"
+msgstr ""
+
+#. translators: Placeholders: %s - order number
+#: templates/emails/admin-order-status-email.php:22
+msgid "Order: #%s"
+msgstr ""
+
+#: templates/emails/admin-order-status-email.php:34
+#: templates/emails/customer-order-status-email.php:24
+msgid "Product"
+msgstr ""
+
+#: templates/emails/admin-order-status-email.php:35
+#: templates/emails/customer-order-status-email.php:25
+msgid "Quantity"
+msgstr ""
+
+#: templates/emails/admin-order-status-email.php:36
+#: templates/emails/customer-order-status-email.php:26
+msgid "Price"
+msgstr ""
+
+#: templates/emails/customer-order-status-email.php:19
+msgid "Order:"
+msgstr ""
+
+#. translators: Placeholders: %s - order number
+#: templates/emails/plain/admin-order-status-email.php:33
+#: templates/emails/plain/customer-order-status-email.php:32
+msgid "Order number: %s"
+msgstr ""
+
+#. translators: Placeholders: %s - order link
+#: templates/emails/plain/admin-order-status-email.php:36
+msgid "Order link: %s"
+msgstr ""
+
+#. translators: Placeholders: %s - order date
+#: templates/emails/plain/admin-order-status-email.php:41
+#: templates/emails/plain/customer-order-status-email.php:37
+msgid "Order date: %s"
+msgstr ""
+
+#. translators: Placeholders: %s - order date
+#: templates/emails/plain/admin-order-status-email.php:41
+msgid "jS F Y"
+msgstr ""

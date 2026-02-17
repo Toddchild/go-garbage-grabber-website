@@ -1,0 +1,86 @@
+/* Trust strip: orange icon visuals + 4-column evenly spaced layout
+   Drop this at the end of your main stylesheet or load as a small separate file.
+   Uses --brand-orange when available; falls back to #ff7f32.
+*/
+
+:root {
+  --trust-accent: var(--brand-orange, #ff7f32);
+  --trust-gap: 20px;
+  --trust-icon-size: 44px;
+  --trust-icon-inner: 28px; /* svg size already set in markup */
+}
+
+.trust-strip { padding: 12px 16px; }
+
+.trust-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* four even columns */
+  gap: var(--trust-gap);
+  align-items: center;
+}
+
+/* Responsive fallbacks */
+@media (max-width: 1000px) {
+  .trust-list { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .trust-list { grid-template-columns: 1fr; }
+}
+
+/* Each item: center content, keep icon and text aligned */
+.trust-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  justify-content: center; /* centers each item within its column */
+  text-align: left;        /* label text lines up nicely next to icon */
+  padding: 6px 8px;
+}
+
+/* Icon circle: orange background with white svg */
+.trust-icon {
+  width: var(--trust-icon-size);
+  height: var(--trust-icon-size);
+  min-width: var(--trust-icon-size);
+  min-height: var(--trust-icon-size);
+  display: inline-grid;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--trust-accent);
+  color: #fff; /* svg uses currentColor (your SVGs do) so this makes them white */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+
+/* Make sure inline svgs inherit color and scale nicely */
+.trust-icon svg {
+  width: var(--trust-icon-inner);
+  height: var(--trust-icon-inner);
+  display: block;
+  fill: currentColor; /* uses .trust-icon color (#fff) */
+}
+
+/* Text styles */
+.trust-text {
+  display: inline-block;
+  color: #0a2e3b; /* dark text for contrast on white backgrounds */
+  font-size: 0.95rem;
+  line-height: 1.2;
+}
+
+/* Emphasize numeric rating or bold parts */
+.trust-text strong { font-weight: 800; color: var(--trust-accent); }
+
+/* If the trust strip sits on a dark background, provide an inverse modifier */
+.trust-strip--dark .trust-text { color: #fff; }
+.trust-strip--dark .trust-icon { box-shadow: none; }
+
+/* Accessibility: ensure icon is decorative if using adjacent readable text */
+.trust-icon[aria-hidden="true"] { pointer-events: none; }
+
+/* Minor spacing tweak so multi-line texts don't crowd the icon */
+.trust-item .trust-text { max-width: 18ch; }
+
+/* End trust-strip.css */

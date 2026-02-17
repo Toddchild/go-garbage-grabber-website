@@ -1,0 +1,16 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">order_status</custom-type>
+  </custom-types>
+  <custom-fields>
+   <custom-field action="copy">status_slug</custom-field>
+   <custom-field action="copy">status_icon</custom-field>
+   <custom-field action="copy">text_color</custom-field>
+   <custom-field action="copy">background_color</custom-field>
+   <custom-field action="copy">is_status_paid</custom-field>
+   <custom-field action="copy">_enable_action_status</custom-field>
+   <custom-field action="copy">_enable_bulk</custom-field>
+   <custom-field action="copy">_enable_email</custom-field>
+   <custom-field action="copy">_enable_type</custom-field>
+  </custom-fields>
+</wpml-config>

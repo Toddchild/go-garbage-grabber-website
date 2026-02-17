@@ -1,0 +1,1869 @@
+Array
+(
+    [time] => 2026-01-30T20:01:56+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:56+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:56+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:57+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:57+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:57+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:57+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:58+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:58+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:58+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:58+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:59+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:59+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:59+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:01:59+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:00+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:00+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:00+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:00+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:01+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:02+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:02+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:03+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:03+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:03+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:03+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:04+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:04+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:04+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:04+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:05+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:05+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:05+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:05+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:06+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:06+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:06+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:07+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:07+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:07+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:12+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:13+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:13+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:13+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:13+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:14+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:14+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:14+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:14+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:15+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:15+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:15+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:15+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:16+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:16+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:16+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:16+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:17+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:17+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:02:17+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:04:51+00:00
+    [REQUEST_URI] => /?page_id=1955
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:04:52+00:00
+    [REQUEST_URI] => /checkout/
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:04:52+00:00
+    [REQUEST_URI] => /?page_id=1955&qp_bypass=1
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:04:52+00:00
+    [REQUEST_URI] => /checkout/?qp_bypass=1
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:05:18+00:00
+    [REQUEST_URI] => /check-out/?pid=1688&qp_item=fridge&qp_name=Fridge%2FFreezer&qp_location=curb&qp_price=125.00&qp_env_fee=40.00&qp_img=https%3A%2F%2Fstaging.gogarbagegrabber.com%2Fwp-content%2Fuploads%2F2026%2F01%2Ffridge-freezer.png
+    [PATH] => /check-out
+    [is_404] => 1
+    [is_page] => 0
+    [is_singular] => 0
+    [queried_object] => 
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:05:19+00:00
+    [REQUEST_URI] => /?page_id=1955&qp_bypass=1
+    [PATH] => 
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
+Array
+(
+    [time] => 2026-01-30T20:05:19+00:00
+    [REQUEST_URI] => /checkout/?qp_bypass=1
+    [PATH] => /checkout
+    [is_404] => 0
+    [is_page] => 1
+    [is_singular] => 1
+    [queried_object] => Array
+        (
+            [ID] => 1955
+            [post_type] => page
+            [post_status] => publish
+            [post_name] => checkout
+        )
+
+    [post_1955] => Array
+        (
+            [ID] => 1955
+            [post_status] => publish
+            [post_type] => page
+            [post_name] => checkout
+            [post_title] => Checkout
+        )
+
+)
+
+-----------------
