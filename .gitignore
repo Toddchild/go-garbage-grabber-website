@@ -1,21 +1,18 @@
-# WordPress, build, and IDE ignores
+# WordPress
+wp-config.php
 wp-content/uploads/
-wp-content/cache/
 wp-content/upgrade/
-wp-content/backup-db/
+wp-content/cache/
 wp-content/backups/
-backups/
-wp-content/plugins/*/node_modules/
+# DB / archive / backups
+*.sql
+*.sql.gz
+*.gz
+*.zip
+# Node / vendor / editor
 node_modules/
 vendor/
-.env
-wp-config.php
-*.zip
-*.tar.gz
-*.sql
-.ssh/
 .DS_Store
-Thumbs.db
+.env
 .idea/
 .vscode/
-*.log
