@@ -1,0 +1,756 @@
+0000.000 (0) Opened log file at time: Thu, 19 Feb 2026 07:42:48 +0000 on https://staging.gogarbagegrabber.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.26.1 WP: 6.9.1 PHP: 8.2.30 (apache2handler, Linux giowm1092.siteground.biz 6.6.63-MCIclouder663-c9 #663 SMP PREEMPT_DYNAMIC Mon Dec  9 12:35:17 EET 2024 x86_64) MySQL: 8.4.5-5 (max packet size=33554432) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 96.2M | 120M) multisite: N openssl: OpenSSL 3.5.4 30 Sep 2025 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.001 (0) Free space on disk containing Updraft's temporary directory: 622513.9 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.004 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.010 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1771403593, seconds_ago=83375)
+0000.011 (0) Set semaphore last lock (fd) time to 2026-02-19 07:42:48
+0000.011 (0) Semaphore lock (fd) complete
+0000.012 (0) Backup run: resumption=0, nonce=694e82452c5e, file_nonce=694e82452c5e begun at=1771486968 (0s ago), job type=backup
+0000.013 (0) Scheduling a resumption (1) after 300 seconds (1771487268) in case this run gets aborted
+0000.018 (0) Checking if we have a zip executable available
+0000.019 (0) Testing: /usr/bin/zip
+0000.023 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.023 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.024 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.024 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.024 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.039 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.039 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.043 (0) Working binary zip found: /usr/bin/zip
+0000.044 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.044 (0) Creation of backups of directories: beginning
+0000.047 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.647 (0) Total entities for the zip file: 2530 directories, 13873 files (0 skipped as non-modified), 181.4 MB
+0000.651 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.652 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.654 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.656 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.657 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.659 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.660 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.661 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.663 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.664 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.664 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.8 MB, 13873 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0001.333 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: size is now: 3.60 MB
+0001.335 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1100 files added (on-disk size: 3640.3 KB)
+0001.337 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1200 files added (on-disk size: 3640.3 KB)
+0001.338 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1300 files added (on-disk size: 3640.3 KB)
+0001.339 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1400 files added (on-disk size: 3640.3 KB)
+0001.341 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1500 files added (on-disk size: 3640.3 KB)
+0001.343 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1600 files added (on-disk size: 3640.3 KB)
+0001.345 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1700 files added (on-disk size: 3640.3 KB)
+0001.347 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1800 files added (on-disk size: 3640.3 KB)
+0001.349 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 1900 files added (on-disk size: 3640.3 KB)
+0001.351 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2000 files added (on-disk size: 3640.3 KB)
+0001.351 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (22.5 MB, 13873 files batched, 1001 (2002) added so far); re-opening (prior size: 3640.3 KB)
+0002.415 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: size is now: 10.30 MB
+0002.418 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2100 files added (on-disk size: 10549 KB)
+0002.419 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2200 files added (on-disk size: 10549 KB)
+0002.421 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2300 files added (on-disk size: 10549 KB)
+0002.422 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2400 files added (on-disk size: 10549 KB)
+0002.423 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2500 files added (on-disk size: 10549 KB)
+0002.425 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2600 files added (on-disk size: 10549 KB)
+0002.426 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.5 MB, 13873 files batched, 663 (2665) added so far); re-opening (prior size: 10549 KB)
+0003.666 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: size is now: 19.30 MB
+0003.668 (0) A useful amount of data was added after this amount of zip processing: 2.1 s (normalised: 2 s, rate: 12581.9 KB/s)
+0003.669 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.0787250995636, normalised_time=2.0346750643428, max_time=3.6686720848083, data points known=1, old_max_bytes=26214400, new_max_bytes=77302957)
+0003.671 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2700 files added (on-disk size: 19730.1 KB)
+0003.673 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2800 files added (on-disk size: 19730.1 KB)
+0003.674 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 2900 files added (on-disk size: 19730.1 KB)
+0003.676 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3000 files added (on-disk size: 19730.1 KB)
+0003.678 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3100 files added (on-disk size: 19730.1 KB)
+0003.680 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3200 files added (on-disk size: 19730.1 KB)
+0003.682 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3300 files added (on-disk size: 19730.1 KB)
+0003.684 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3400 files added (on-disk size: 19730.1 KB)
+0003.686 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3500 files added (on-disk size: 19730.1 KB)
+0003.688 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3600 files added (on-disk size: 19730.1 KB)
+0003.689 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (38.5 MB, 13873 files batched, 1001 (3666) added so far); re-opening (prior size: 19730.1 KB)
+0005.089 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: size is now: 27.50 MB
+0005.092 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3700 files added (on-disk size: 28137.2 KB)
+0005.093 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3800 files added (on-disk size: 28137.2 KB)
+0005.094 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 3900 files added (on-disk size: 28137.2 KB)
+0005.096 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4000 files added (on-disk size: 28137.2 KB)
+0005.097 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4100 files added (on-disk size: 28137.2 KB)
+0005.098 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4200 files added (on-disk size: 28137.2 KB)
+0005.100 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4300 files added (on-disk size: 28137.2 KB)
+0005.101 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4400 files added (on-disk size: 28137.2 KB)
+0005.102 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4500 files added (on-disk size: 28137.2 KB)
+0005.104 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4600 files added (on-disk size: 28137.2 KB)
+0005.104 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (3.7 MB, 13873 files batched, 1001 (4667) added so far); re-opening (prior size: 28137.2 KB)
+0005.574 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4700 files added (on-disk size: 29457.9 KB)
+0005.576 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4800 files added (on-disk size: 29457.9 KB)
+0005.577 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 4900 files added (on-disk size: 29457.9 KB)
+0005.579 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5000 files added (on-disk size: 29457.9 KB)
+0005.580 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5100 files added (on-disk size: 29457.9 KB)
+0005.582 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5200 files added (on-disk size: 29457.9 KB)
+0005.583 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5300 files added (on-disk size: 29457.9 KB)
+0005.585 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5400 files added (on-disk size: 29457.9 KB)
+0005.586 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5500 files added (on-disk size: 29457.9 KB)
+0005.587 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5600 files added (on-disk size: 29457.9 KB)
+0005.588 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.3 MB, 13873 files batched, 1001 (5668) added so far); re-opening (prior size: 29457.9 KB)
+0006.011 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5700 files added (on-disk size: 30812 KB)
+0006.013 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5800 files added (on-disk size: 30812 KB)
+0006.015 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 5900 files added (on-disk size: 30812 KB)
+0006.016 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6000 files added (on-disk size: 30812 KB)
+0006.017 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6100 files added (on-disk size: 30812 KB)
+0006.018 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6200 files added (on-disk size: 30812 KB)
+0006.020 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6300 files added (on-disk size: 30812 KB)
+0006.021 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6400 files added (on-disk size: 30812 KB)
+0006.022 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6500 files added (on-disk size: 30812 KB)
+0006.024 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6600 files added (on-disk size: 30812 KB)
+0006.025 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.7 MB, 13873 files batched, 1001 (6669) added so far); re-opening (prior size: 30812 KB)
+0006.762 (0) PHP event: code E_WARNING: filesize(): stat failed for /home/customer/www/staging.gogarbagegrabber.com/public_html/wp-content/updraft/backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp (line 506, wp-content/plugins/updraftplus/includes/class-zip.php)
+0006.771 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6700 files added (on-disk size: 35188.5 KB)
+0006.773 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6800 files added (on-disk size: 35188.5 KB)
+0006.775 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 6900 files added (on-disk size: 35188.5 KB)
+0006.778 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7000 files added (on-disk size: 35188.5 KB)
+0006.780 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7100 files added (on-disk size: 35188.5 KB)
+0006.782 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7200 files added (on-disk size: 35188.5 KB)
+0006.784 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7300 files added (on-disk size: 35188.5 KB)
+0006.786 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7400 files added (on-disk size: 35188.5 KB)
+0006.789 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7500 files added (on-disk size: 35188.5 KB)
+0006.791 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7600 files added (on-disk size: 35188.5 KB)
+0006.792 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.3 MB, 13873 files batched, 1001 (7670) added so far); re-opening (prior size: 35188.5 KB)
+0007.482 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7700 files added (on-disk size: 38754 KB)
+0007.484 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7800 files added (on-disk size: 38754 KB)
+0007.485 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 7900 files added (on-disk size: 38754 KB)
+0007.487 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8000 files added (on-disk size: 38754 KB)
+0007.488 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8100 files added (on-disk size: 38754 KB)
+0007.489 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8200 files added (on-disk size: 38754 KB)
+0007.491 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8300 files added (on-disk size: 38754 KB)
+0007.492 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8400 files added (on-disk size: 38754 KB)
+0007.493 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8500 files added (on-disk size: 38754 KB)
+0007.495 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8600 files added (on-disk size: 38754 KB)
+0007.496 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.7 MB, 13873 files batched, 1001 (8671) added so far); re-opening (prior size: 38754 KB)
+0008.039 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8700 files added (on-disk size: 45082.9 KB)
+0008.040 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8800 files added (on-disk size: 45082.9 KB)
+0008.042 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 8900 files added (on-disk size: 45082.9 KB)
+0008.043 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9000 files added (on-disk size: 45082.9 KB)
+0008.044 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9100 files added (on-disk size: 45082.9 KB)
+0008.046 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9200 files added (on-disk size: 45082.9 KB)
+0008.047 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9300 files added (on-disk size: 45082.9 KB)
+0008.049 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9400 files added (on-disk size: 45082.9 KB)
+0008.050 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9500 files added (on-disk size: 45082.9 KB)
+0008.051 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9600 files added (on-disk size: 45082.9 KB)
+0008.052 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11 MB, 13873 files batched, 1001 (9672) added so far); re-opening (prior size: 45082.9 KB)
+0008.706 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9700 files added (on-disk size: 49003 KB)
+0008.708 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9800 files added (on-disk size: 49003 KB)
+0008.709 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 9900 files added (on-disk size: 49003 KB)
+0008.711 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10000 files added (on-disk size: 49003 KB)
+0008.713 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10100 files added (on-disk size: 49003 KB)
+0008.714 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10200 files added (on-disk size: 49003 KB)
+0008.715 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10300 files added (on-disk size: 49003 KB)
+0008.717 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10400 files added (on-disk size: 49003 KB)
+0008.718 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10500 files added (on-disk size: 49003 KB)
+0008.720 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10600 files added (on-disk size: 49003 KB)
+0008.721 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.1 MB, 13873 files batched, 1001 (10673) added so far); re-opening (prior size: 49003 KB)
+0009.281 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10700 files added (on-disk size: 51130.3 KB)
+0009.283 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10800 files added (on-disk size: 51130.3 KB)
+0009.284 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 10900 files added (on-disk size: 51130.3 KB)
+0009.286 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11000 files added (on-disk size: 51130.3 KB)
+0009.287 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11100 files added (on-disk size: 51130.3 KB)
+0009.289 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11200 files added (on-disk size: 51130.3 KB)
+0009.290 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11300 files added (on-disk size: 51130.3 KB)
+0009.292 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11400 files added (on-disk size: 51130.3 KB)
+0009.293 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11500 files added (on-disk size: 51130.3 KB)
+0009.295 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11600 files added (on-disk size: 51130.3 KB)
+0009.296 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.2 MB, 13873 files batched, 1001 (11674) added so far); re-opening (prior size: 51130.3 KB)
+0009.820 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11700 files added (on-disk size: 52846.1 KB)
+0009.822 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11800 files added (on-disk size: 52846.1 KB)
+0009.823 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 11900 files added (on-disk size: 52846.1 KB)
+0009.825 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12000 files added (on-disk size: 52846.1 KB)
+0009.826 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12100 files added (on-disk size: 52846.1 KB)
+0009.828 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12200 files added (on-disk size: 52846.1 KB)
+0009.830 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12300 files added (on-disk size: 52846.1 KB)
+0009.831 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12400 files added (on-disk size: 52846.1 KB)
+0009.833 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12500 files added (on-disk size: 52846.1 KB)
+0009.834 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12600 files added (on-disk size: 52846.1 KB)
+0009.836 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.9 MB, 13873 files batched, 1001 (12675) added so far); re-opening (prior size: 52846.1 KB)
+0010.396 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12700 files added (on-disk size: 56571.4 KB)
+0010.398 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12800 files added (on-disk size: 56571.4 KB)
+0010.399 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 12900 files added (on-disk size: 56571.4 KB)
+0010.401 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13000 files added (on-disk size: 56571.4 KB)
+0010.402 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13100 files added (on-disk size: 56571.4 KB)
+0010.404 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13200 files added (on-disk size: 56571.4 KB)
+0010.405 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13300 files added (on-disk size: 56571.4 KB)
+0010.406 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13400 files added (on-disk size: 56571.4 KB)
+0010.408 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13500 files added (on-disk size: 56571.4 KB)
+0010.409 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13600 files added (on-disk size: 56571.4 KB)
+0010.411 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.4 MB, 13873 files batched, 1001 (13676) added so far); re-opening (prior size: 56571.4 KB)
+0011.018 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13700 files added (on-disk size: 58482.6 KB)
+0011.020 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.tmp: 13800 files added (on-disk size: 58482.6 KB)
+0011.418 (0) Creating zip file manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.list-temp.tmp)
+0011.435 (0) Successfully created zip file manifest (size: 1230802)
+0011.854 (0) Created plugins zip (0) - 60573.8 KB in 11.8 s (5130.8 KB/s) (sha1: 0600f79d1f0884a7003d2c2767fbd48af3435f37, sha256: 3e28720d727cf0f44a67fb12251a01f6a750c68a6e62d7d188fc0f8427944f4d)
+0011.862 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0011.862 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0cdf26541a13a01695d83e54362e6a01)
+0012.629 (0) Google Drive: quota usage: used=12081.4 MB, total=102400 MB, available=90318.6 MB
+0012.629 (0) Google Drive: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip: Attempting to upload to Google Drive (into folder id: 117enwE77yfNlTJhXDfUpd6w9TF30EhGY)
+0013.109 (0) Googledrive chunked upload: 1.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 102 / 126)
+0013.210 (0) Googledrive chunked upload: 5.1 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 102 / 126)
+0013.315 (0) Googledrive chunked upload: 11.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 102 / 126)
+0013.478 (0) Googledrive chunked upload: 25.4 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 102 / 126)
+0013.760 (0) Googledrive chunked upload: 52.4 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 102 / 126)
+0015.371 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0015.372 (0) Google Drive: OK: Archive backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip uploaded in 2.74 seconds
+0015.372 (0) Recording as successfully uploaded: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip
+0015.383 (0) Deleting local file: backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip: OK
+0015.385 (0) Beginning creation of dump of themes (split every: 400 MB)
+0015.391 (0) Total entities for the zip file: 24 directories, 130 files (0 skipped as non-modified), 2 MB
+0015.393 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.479 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip.tmp: size is now: 1.30 MB
+0015.482 (0) Creating zip file manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip.list-temp.tmp)
+0015.483 (0) Successfully created zip file manifest (size: 8499)
+0015.493 (0) Created themes zip (0) - 1314.2 KB in 0.1 s (12275.5 KB/s) (sha1: 61ba566aaa17553135eaeee3eb43ab9ab36c19f9, sha256: 2e07f8905a5af78d0630d0ac70b5d0bc9eeb0a4c9c23cce636989a7aec831228)
+0015.495 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0015.495 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0cdf26541a13a01695d83e54362e6a01)
+0015.681 (0) Google Drive: quota usage: used=12081.4 MB, total=102400 MB, available=90318.6 MB
+0015.682 (0) Google Drive: backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip: Attempting to upload to Google Drive (into folder id: 117enwE77yfNlTJhXDfUpd6w9TF30EhGY)
+0016.172 (0) Googledrive chunked upload: 77.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 99.9 / 126)
+0017.252 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0017.253 (0) Google Drive: OK: Archive backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip uploaded in 1.57 seconds
+0017.254 (0) Recording as successfully uploaded: backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip
+0017.255 (0) Deleting local file: backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip: OK
+0017.256 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots,wp-staging
+0017.257 (0) Looking for candidates to backup in: /home/customer/www/staging.gogarbagegrabber.com/public_html/wp-content/uploads
+0017.257 (0) finding files: 2025: adding to list (1)
+0017.257 (0) finding files: woocommerce_uploads: adding to list (2)
+0017.257 (0) finding files: 2026: adding to list (3)
+0017.258 (0) finding files: wc-imports: adding to list (4)
+0017.258 (0) finding files: elementor: adding to list (5)
+0017.258 (0) finding files: woocommerce-placeholder-768x768.webp: adding to list (6)
+0017.258 (0) finding files: woocommerce-placeholder-300x300.webp: adding to list (7)
+0017.258 (0) finding files: siteground-optimizer-assets: adding to list (8)
+0017.259 (0) finding files: fonts: adding to list (9)
+0017.259 (0) finding files: woocommerce-placeholder.webp: adding to list (10)
+0017.259 (0) finding files: woocommerce-placeholder-1024x1024.webp: adding to list (11)
+0017.259 (0) finding files: wc-logs: adding to list (12)
+0017.260 (0) finding files: woocommerce-placeholder-150x150.webp: adding to list (13)
+0017.260 (0) finding files: .htaccess: adding to list (14)
+0017.260 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0017.356 (0) Total entities for the zip file: 19 directories, 4923 files (0 skipped as non-modified), 439.6 MB
+0017.358 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.360 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0017.361 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.362 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0017.363 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0017.364 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 73.7 MB added on this batch (73.9 MB, 4923 files batched, 591 (591) added so far); re-opening (prior size: 0 KB)
+0018.701 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: size is now: 74.00 MB
+0018.703 (0) A useful amount of data was added after this amount of zip processing: 2.1 s (normalised: 2.1 s, rate: 35791.3 KB/s)
+0018.704 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1131110191345, normalised_time=2.109205999529, max_time=18.703090906143, data points known=1, old_max_bytes=77302957, new_max_bytes=209715200)
+0018.705 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 600 files added (on-disk size: 75782.7 KB)
+0018.706 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 700 files added (on-disk size: 75782.7 KB)
+0018.707 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 800 files added (on-disk size: 75782.7 KB)
+0018.709 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 900 files added (on-disk size: 75782.7 KB)
+0018.710 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1000 files added (on-disk size: 75782.7 KB)
+0018.711 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1100 files added (on-disk size: 75782.7 KB)
+0018.712 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1200 files added (on-disk size: 75782.7 KB)
+0018.714 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1300 files added (on-disk size: 75782.7 KB)
+0018.715 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1400 files added (on-disk size: 75782.7 KB)
+0018.716 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1500 files added (on-disk size: 75782.7 KB)
+0018.717 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (148.4 MB, 4923 files batched, 1001 (1592) added so far); re-opening (prior size: 75782.7 KB)
+0020.708 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: size is now: 222.60 MB
+0020.711 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1600 files added (on-disk size: 227973.4 KB)
+0020.712 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1700 files added (on-disk size: 227973.4 KB)
+0020.713 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1800 files added (on-disk size: 227973.4 KB)
+0020.715 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 1900 files added (on-disk size: 227973.4 KB)
+0020.716 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2000 files added (on-disk size: 227973.4 KB)
+0020.717 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2100 files added (on-disk size: 227973.4 KB)
+0020.718 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2200 files added (on-disk size: 227973.4 KB)
+0020.720 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2300 files added (on-disk size: 227973.4 KB)
+0020.721 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2400 files added (on-disk size: 227973.4 KB)
+0020.722 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2500 files added (on-disk size: 227973.4 KB)
+0020.723 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (50 MB, 4923 files batched, 1001 (2593) added so far); re-opening (prior size: 227973.4 KB)
+0021.982 (0) PHP event: code E_WARNING: filesize(): stat failed for /home/customer/www/staging.gogarbagegrabber.com/public_html/wp-content/updraft/backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp (line 506, wp-content/plugins/updraftplus/includes/class-zip.php)
+0022.016 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: size is now: 272.70 MB
+0022.018 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2600 files added (on-disk size: 279280.1 KB)
+0022.019 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2700 files added (on-disk size: 279280.1 KB)
+0022.020 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2800 files added (on-disk size: 279280.1 KB)
+0022.022 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 2900 files added (on-disk size: 279280.1 KB)
+0022.023 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3000 files added (on-disk size: 279280.1 KB)
+0022.024 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3100 files added (on-disk size: 279280.1 KB)
+0022.025 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3200 files added (on-disk size: 279280.1 KB)
+0022.026 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3300 files added (on-disk size: 279280.1 KB)
+0022.028 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3400 files added (on-disk size: 279280.1 KB)
+0022.029 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3500 files added (on-disk size: 279280.1 KB)
+0022.030 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (62.6 MB, 4923 files batched, 1001 (3594) added so far); re-opening (prior size: 279280.1 KB)
+0023.310 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: size is now: 335.50 MB
+0023.312 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3600 files added (on-disk size: 343587.4 KB)
+0023.313 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3700 files added (on-disk size: 343587.4 KB)
+0023.314 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3800 files added (on-disk size: 343587.4 KB)
+0023.316 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 3900 files added (on-disk size: 343587.4 KB)
+0023.317 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 4000 files added (on-disk size: 343587.4 KB)
+0023.318 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 4100 files added (on-disk size: 343587.4 KB)
+0023.319 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 4200 files added (on-disk size: 343587.4 KB)
+0023.320 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 4300 files added (on-disk size: 343587.4 KB)
+0023.322 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 4400 files added (on-disk size: 343587.4 KB)
+0023.323 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 4500 files added (on-disk size: 343587.4 KB)
+0023.324 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (56.3 MB, 4923 files batched, 1001 (4595) added so far); re-opening (prior size: 343587.4 KB)
+0024.805 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: size is now: 391.90 MB
+0024.808 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.tmp: 4600 files added (on-disk size: 401334.1 KB)
+0024.809 (0) Adding batch to zip file (UpdraftPlus_BinZip): possibly approaching split limit (11.5 MB, 68 (4663) files added so far); last ratio: 1; re-opening (prior size: 401334.1 KB)
+0025.412 (0) Zip size is at/near split limit (403.4 MB / 400 MB) - bumping index (from: 0)
+0028.199 (0) Creating zip file manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.list-temp.tmp)
+0028.204 (0) Successfully created zip file manifest (size: 320923)
+0028.205 (0) Created uploads zip (0) - 413126.1 KB in 8.2 s (50677.4 KB/s) (checksums: sha1: 137ed2e85f6925c5bc2bb2b18a9a57f390249d43, sha256: 1aa4820ae099e4023cc46f03f794c774877b8ef3b0153e9f679cdd17735dacab)
+0028.209 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0028.209 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0cdf26541a13a01695d83e54362e6a01)
+0028.353 (0) Google Drive: quota usage: used=12141.8 MB, total=102400 MB, available=90258.2 MB
+0028.355 (0) Google Drive: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip: Attempting to upload to Google Drive (into folder id: 117enwE77yfNlTJhXDfUpd6w9TF30EhGY)
+0028.861 (0) Googledrive chunked upload: 0.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 102.1 / 126)
+0028.962 (0) Googledrive chunked upload: 0.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 102.1 / 126)
+0029.074 (0) Googledrive chunked upload: 1.7 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 102.1 / 126)
+0029.201 (0) Googledrive chunked upload: 3.7 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 102.1 / 126)
+0029.438 (0) Googledrive chunked upload: 7.7 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 102.1 / 126)
+0029.899 (0) Googledrive chunked upload: 15.6 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 102.1 / 126)
+0030.630 (0) Googledrive chunked upload: 31.5 % uploaded (133169152)
+0031.493 (0) Googledrive chunked upload: 47.3 % uploaded (200278016)
+0032.399 (0) Googledrive chunked upload: 63.2 % uploaded (267386880)
+0033.405 (0) Googledrive chunked upload: 79.1 % uploaded (334495744)
+0034.135 (0) Googledrive chunked upload: 94.9 % uploaded (401604608)
+0035.732 (0) Googledrive chunked upload: 100 % uploaded (401604608)
+0035.734 (0) Google Drive: OK: Archive backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip uploaded in 7.38 seconds
+0035.734 (0) Recording as successfully uploaded: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip
+0035.795 (0) Deleting local file: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip: OK
+0035.797 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (4664) files added so far); re-opening (prior size: 0 KB)
+0035.810 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip.tmp: size is now: 0.00 MB
+0035.812 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip.tmp: 4700 files added (on-disk size: 3.9 KB)
+0035.813 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip.tmp: 4800 files added (on-disk size: 3.9 KB)
+0035.814 (0) Zip: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip.tmp: 4900 files added (on-disk size: 3.9 KB)
+0036.339 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip.tmp: size is now: 23.30 MB
+0036.342 (0) Creating zip file manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip.list-temp.tmp)
+0036.342 (0) Successfully created zip file manifest (size: 18562)
+0036.508 (0) Created uploads zip (1) - 23897.5 KB in 8.3 s (2878.4 KB/s) (sha1: d9eded785b1f528ec743cf821df788031cada18c, sha256: 57b72465f5f986521124c3af05a376c02b360f21bdb771fa4d79d2be542d2bad)
+0036.510 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0036.510 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0cdf26541a13a01695d83e54362e6a01)
+0036.740 (0) Google Drive: quota usage: used=12141.8 MB, total=102400 MB, available=90258.2 MB
+0036.741 (0) Google Drive: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip: Attempting to upload to Google Drive (into folder id: 117enwE77yfNlTJhXDfUpd6w9TF30EhGY)
+0037.273 (0) Googledrive chunked upload: 4.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 99.9 / 126)
+0037.373 (0) Googledrive chunked upload: 12.9 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 100 / 126)
+0037.463 (0) Googledrive chunked upload: 30 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 100 / 126)
+0037.614 (0) Googledrive chunked upload: 64.3 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 100 / 126)
+0038.917 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0038.918 (0) Google Drive: OK: Archive backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip uploaded in 2.18 seconds
+0038.919 (0) Recording as successfully uploaded: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip
+0038.924 (0) Deleting local file: backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip: OK
+0038.926 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0038.927 (0) Does not exist: /home/customer/www/staging.gogarbagegrabber.com/public_html/wp-content/mu-plugins
+0038.927 (0) There are no mu-plugins to backup. Will not raise an error.
+0038.927 (0) mu-plugins: create_zip returned an error
+0038.928 (0) Beginning backup of other directories found in the content directory (index: 0)
+0038.929 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0038.929 (0) Looking for candidates to backup in: /home/customer/www/staging.gogarbagegrabber.com/public_html/wp-content
+0038.929 (0) finding files: index.php: adding to list (1)
+0038.930 (0) finding files: sgs_encrypt_key.php: adding to list (2)
+0038.930 (0) finding files: themes: skipping: this is the themes directory
+0038.930 (0) finding files: qp-debug.txt: adding to list (3)
+0038.931 (0) finding files: upgrade-temp-backup: adding to list (4)
+0038.931 (0) finding files: updraft: skipping: this is the updraft directory
+0038.931 (0) finding files: upgrade: skipping: excluded by options
+0038.932 (0) finding files: debug.log: skipping: excluded by options
+0038.932 (0) finding files: plugins: skipping: this is the plugins directory
+0038.932 (0) finding files: .htaccess: adding to list (5)
+0038.933 (0) finding files: uploads: skipping: this is the uploads directory
+0038.935 (0) Total entities for the zip file: 1 directories, 4 files (0 skipped as non-modified), 0 MB
+0038.951 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip.tmp: size is now: 0.00 MB
+0038.953 (0) Creating zip file manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip.list-temp.tmp)
+0038.954 (0) Successfully created zip file manifest (size: 111)
+0038.956 (0) Created others zip (0) - 1.9 KB in 0 s (86.4 KB/s) (sha1: c8cbf59846340e6b0825a2f869c499b7b51c46f2, sha256: bac7812b287ac5afa8d73f09ae4dc77c6ad88c9adaccfdeb1b1a0d7b77af73c4)
+0038.957 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0038.958 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0cdf26541a13a01695d83e54362e6a01)
+0039.206 (0) Google Drive: quota usage: used=12545.3 MB, total=102400 MB, available=89854.7 MB
+0039.207 (0) Google Drive: backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip: Attempting to upload to Google Drive (into folder id: 117enwE77yfNlTJhXDfUpd6w9TF30EhGY)
+0040.890 (0) Googledrive chunked upload: 100 % uploaded
+0040.892 (0) Google Drive: OK: Archive backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip uploaded in 1.68 seconds
+0040.892 (0) Recording as successfully uploaded: backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip
+0040.893 (0) Deleting local file: backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip: OK
+0040.897 (0) Saving backup status to database (elements: 9)
+0040.901 (0) Beginning creation of database dump (WordPress DB)
+0040.901 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0040.902 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0040.945 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `zwh_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */; (truncated - 1558 bytes total)
+0040.946 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0040.955 (0) Table zwh_options: Total expected rows (via COUNT): 662
+0040.999 (0) Table zwh_options: Rows added in this batch (next record: 10130): 658 (uncompressed bytes in this segment=2069861) in 0.05 seconds
+0041.003 (0) Table zwh_options: finishing file(s) (2, 216.1 KB)
+0041.009 (0) Table zwh_users: Total expected rows (via COUNT): 1
+0041.009 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.011 (0) Table zwh_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1425) in 0.01 seconds
+0041.015 (0) Table zwh_users: finishing file(s) (2, 0.6 KB)
+0041.020 (0) Table zwh_usermeta: Total expected rows (via COUNT): 65
+0041.020 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.022 (0) Table zwh_usermeta: Rows added in this batch (next record: 90): 65 (uncompressed bytes in this segment=28379) in 0.01 seconds
+0041.025 (0) Table zwh_usermeta: finishing file(s) (2, 5.3 KB)
+0041.041 (0) Table zwh_actionscheduler_actions: Total expected rows (via COUNT): 751
+0041.055 (0) Table zwh_actionscheduler_actions: Rows added in this batch (next record: 1720): 751 (uncompressed bytes in this segment=312285) in 0.03 seconds
+0041.058 (0) Table zwh_actionscheduler_actions: finishing file(s) (2, 21.9 KB)
+0041.061 (0) Table zwh_actionscheduler_claims: Total expected rows (via COUNT): 0
+0041.062 (0) Table zwh_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=628) in 0.00 seconds
+0041.064 (0) Table zwh_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0041.067 (0) Table zwh_actionscheduler_groups: Total expected rows (via COUNT): 10
+0041.067 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.068 (0) Table zwh_actionscheduler_groups: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=926) in 0.00 seconds
+0041.070 (0) Table zwh_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0041.072 (0) Table zwh_actionscheduler_logs: Total expected rows (approximate): 1370
+0041.088 (0) Table zwh_actionscheduler_logs: Rows added in this batch (next record: 5039): 2225 (uncompressed bytes in this segment=196122) in 0.02 seconds
+0041.091 (0) Table zwh_actionscheduler_logs: finishing file(s) (2, 17.7 KB)
+0041.097 (0) Table zwh_commentmeta: Total expected rows (via COUNT): 4
+0041.097 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.098 (0) Table zwh_commentmeta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=879) in 0.01 seconds
+0041.100 (0) Table zwh_commentmeta: finishing file(s) (2, 0.5 KB)
+0041.105 (0) Table zwh_comments: Total expected rows (via COUNT): 10
+0041.106 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.107 (0) Table zwh_comments: Rows added in this batch (next record: 11): 10 (uncompressed bytes in this segment=4207) in 0.01 seconds
+0041.109 (0) Table zwh_comments: finishing file(s) (2, 1 KB)
+0041.113 (0) Table zwh_links: Total expected rows (via COUNT): 0
+0041.115 (0) Table zwh_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1304) in 0.00 seconds
+0041.117 (0) Table zwh_links: finishing file(s) (2, 0.5 KB)
+0041.296 (0) Table zwh_postmeta: Total expected rows (approximate): 2677
+0041.410 (0) Table zwh_postmeta: Rows added in this batch (next record: 9416): 2466 (uncompressed bytes in this segment=5745291) in 0.29 seconds
+0041.413 (0) Table zwh_postmeta: finishing file(s) (2, 1010.7 KB)
+0041.496 (0) Table zwh_posts: Total expected rows (via COUNT): 572
+0041.519 (0) Table zwh_posts: Rows added in this batch (next record: 1970): 572 (uncompressed bytes in this segment=2245810) in 0.10 seconds
+0041.522 (0) Table zwh_posts: finishing file(s) (2, 113.3 KB)
+0041.525 (0) Table zwh_term_relationships: Total expected rows (approximate): 309
+0041.527 (0) Table zwh_term_relationships: Rows added in this batch (next record: 100000): 309 (uncompressed bytes in this segment=5689) in 0.00 seconds
+0041.529 (0) Table zwh_term_relationships: finishing file(s) (2, 1.2 KB)
+0041.533 (0) Table zwh_term_taxonomy: Total expected rows (via COUNT): 182
+0041.534 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.536 (0) Table zwh_term_taxonomy: Rows added in this batch (next record: 182): 182 (uncompressed bytes in this segment=7649) in 0.01 seconds
+0041.539 (0) Table zwh_term_taxonomy: finishing file(s) (2, 1.5 KB)
+0041.544 (0) Table zwh_termmeta: Total expected rows (via COUNT): 170
+0041.544 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.545 (0) Table zwh_termmeta: Rows added in this batch (next record: 170): 170 (uncompressed bytes in this segment=8389) in 0.00 seconds
+0041.547 (0) Table zwh_termmeta: finishing file(s) (2, 1.4 KB)
+0041.551 (0) Table zwh_terms: Total expected rows (via COUNT): 182
+0041.551 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.552 (0) Table zwh_terms: Rows added in this batch (next record: 182): 182 (uncompressed bytes in this segment=10016) in 0.00 seconds
+0041.554 (0) Table zwh_terms: finishing file(s) (2, 2.7 KB)
+0041.557 (0) Table zwh_wc_category_lookup: Total expected rows (approximate): 7
+0041.560 (0) Table zwh_wc_category_lookup: Rows added in this batch (next record: 1000): 7 (uncompressed bytes in this segment=654) in 0.00 seconds
+0041.562 (0) Table zwh_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0041.568 (0) Table zwh_wc_product_meta_lookup: Total expected rows (via COUNT): 217
+0041.569 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.572 (0) Table zwh_wc_product_meta_lookup: Rows added in this batch (next record: 1944): 217 (uncompressed bytes in this segment=21445) in 0.01 seconds
+0041.573 (0) Table zwh_wc_product_meta_lookup: finishing file(s) (2, 1.4 KB)
+0041.577 (0) Table zwh_wc_reserved_stock: Total expected rows (approximate): 0
+0041.579 (0) Table zwh_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.00 seconds
+0041.580 (0) Table zwh_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0041.584 (0) Table zwh_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0041.585 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.586 (0) Table zwh_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=815) in 0.00 seconds
+0041.587 (0) Table zwh_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0041.593 (0) Table zwh_woocommerce_order_itemmeta: Total expected rows (via COUNT): 165
+0041.594 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.596 (0) Table zwh_woocommerce_order_itemmeta: Rows added in this batch (next record: 165): 165 (uncompressed bytes in this segment=6757) in 0.01 seconds
+0041.598 (0) Table zwh_woocommerce_order_itemmeta: finishing file(s) (2, 1.4 KB)
+0041.603 (0) Table zwh_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0041.604 (0) Table zwh_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=796) in 0.00 seconds
+0041.606 (0) Table zwh_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0041.610 (0) Table zwh_e_events: Total expected rows (via COUNT): 0
+0041.611 (0) Table zwh_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=531) in 0.00 seconds
+0041.613 (0) Table zwh_e_events: finishing file(s) (2, 0.3 KB)
+0041.616 (0) Table zwh_sgs_log_events: Total expected rows (via COUNT): 68
+0041.616 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.618 (0) Table zwh_sgs_log_events: Rows added in this batch (next record: 3167): 68 (uncompressed bytes in this segment=17296) in 0.00 seconds
+0041.620 (0) Table zwh_sgs_log_events: finishing file(s) (2, 2.1 KB)
+0041.623 (0) Table zwh_sgs_log_visitors: Total expected rows (via COUNT): 15
+0041.623 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.624 (0) Table zwh_sgs_log_visitors: Rows added in this batch (next record: 60): 15 (uncompressed bytes in this segment=1257) in 0.00 seconds
+0041.626 (0) Table zwh_sgs_log_visitors: finishing file(s) (2, 0.6 KB)
+0041.631 (0) Table zwh_wc_admin_note_actions: Total expected rows (via COUNT): 100
+0041.631 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.633 (0) Table zwh_wc_admin_note_actions: Rows added in this batch (next record: 6856): 100 (uncompressed bytes in this segment=19631) in 0.01 seconds
+0041.635 (0) Table zwh_wc_admin_note_actions: finishing file(s) (2, 3.5 KB)
+0041.639 (0) Table zwh_wc_admin_notes: Total expected rows (via COUNT): 74
+0041.639 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.641 (0) Table zwh_wc_admin_notes: Rows added in this batch (next record: 76): 74 (uncompressed bytes in this segment=36491) in 0.00 seconds
+0041.644 (0) Table zwh_wc_admin_notes: finishing file(s) (2, 8.6 KB)
+0041.648 (0) Table zwh_wc_customer_lookup: Total expected rows (via COUNT): 2
+0041.649 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.650 (0) Table zwh_wc_customer_lookup: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1553) in 0.00 seconds
+0041.652 (0) Table zwh_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0041.656 (0) Table zwh_wc_download_log: Total expected rows (via COUNT): 0
+0041.657 (0) Table zwh_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=741) in 0.00 seconds
+0041.659 (0) Table zwh_wc_download_log: finishing file(s) (2, 0.4 KB)
+0041.663 (0) Table zwh_wc_order_addresses: Total expected rows (via COUNT): 17
+0041.664 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.665 (0) Table zwh_wc_order_addresses: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=3717) in 0.00 seconds
+0041.667 (0) Table zwh_wc_order_addresses: finishing file(s) (2, 0.7 KB)
+0041.670 (0) Table zwh_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0041.672 (0) Table zwh_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.00 seconds
+0041.673 (0) Table zwh_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0041.676 (0) Table zwh_wc_order_operational_data: Total expected rows (via COUNT): 14
+0041.677 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.678 (0) Table zwh_wc_order_operational_data: Rows added in this batch (next record: 32): 14 (uncompressed bytes in this segment=3758) in 0.00 seconds
+0041.680 (0) Table zwh_wc_order_operational_data: finishing file(s) (2, 1 KB)
+0041.683 (0) Table zwh_wc_order_product_lookup: Total expected rows (approximate): 0
+0041.685 (0) Table zwh_wc_order_product_lookup: Rows added in this batch (next record: 1000): 3 (uncompressed bytes in this segment=1574) in 0.00 seconds
+0041.687 (0) Table zwh_wc_order_product_lookup: finishing file(s) (2, 0.6 KB)
+0041.691 (0) Table zwh_wc_order_stats: Total expected rows (via COUNT): 14
+0041.692 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.693 (0) Table zwh_wc_order_stats: Rows added in this batch (next record: 1970): 14 (uncompressed bytes in this segment=3027) in 0.00 seconds
+0041.695 (0) Table zwh_wc_order_stats: finishing file(s) (2, 0.8 KB)
+0041.698 (0) Table zwh_wc_order_tax_lookup: Total expected rows (approximate): 0
+0041.700 (0) Table zwh_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=797) in 0.00 seconds
+0041.702 (0) Table zwh_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0041.706 (0) Table zwh_wc_orders: Total expected rows (via COUNT): 14
+0041.706 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.708 (0) Table zwh_wc_orders: Rows added in this batch (next record: 1970): 14 (uncompressed bytes in this segment=6135) in 0.01 seconds
+0041.710 (0) Table zwh_wc_orders: finishing file(s) (2, 1.2 KB)
+0041.718 (0) Table zwh_wc_orders_meta: Total expected rows (via COUNT): 167
+0041.718 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.721 (0) Table zwh_wc_orders_meta: Rows added in this batch (next record: 200): 167 (uncompressed bytes in this segment=10196) in 0.01 seconds
+0041.722 (0) Table zwh_wc_orders_meta: finishing file(s) (2, 2.2 KB)
+0041.726 (0) Table zwh_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0041.728 (0) Table zwh_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=856) in 0.00 seconds
+0041.729 (0) Table zwh_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0041.733 (0) Table zwh_wc_product_download_directories: Total expected rows (via COUNT): 2
+0041.734 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.742 (0) Table zwh_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=964) in 0.01 seconds
+0041.744 (0) Table zwh_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0041.748 (0) Table zwh_wc_rate_limits: Total expected rows (via COUNT): 0
+0041.749 (0) Table zwh_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=711) in 0.00 seconds
+0041.751 (0) Table zwh_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0041.755 (0) Table zwh_wc_webhooks: Total expected rows (via COUNT): 0
+0041.756 (0) Table zwh_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1221) in 0.00 seconds
+0041.758 (0) Table zwh_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0041.764 (0) Table zwh_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0041.764 (0) Table zwh_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1044) in 0.00 seconds
+0041.766 (0) Table zwh_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0041.770 (0) Table zwh_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0041.771 (0) Table zwh_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=960) in 0.00 seconds
+0041.773 (0) Table zwh_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0041.777 (0) Table zwh_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0041.778 (0) Table zwh_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1568) in 0.00 seconds
+0041.780 (0) Table zwh_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0041.785 (0) Table zwh_woocommerce_log: Total expected rows (via COUNT): 0
+0041.785 (0) Table zwh_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=721) in 0.00 seconds
+0041.787 (0) Table zwh_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0041.792 (0) Table zwh_woocommerce_order_items: Total expected rows (via COUNT): 26
+0041.792 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.794 (0) Table zwh_woocommerce_order_items: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1936) in 0.00 seconds
+0041.796 (0) Table zwh_woocommerce_order_items: finishing file(s) (2, 0.7 KB)
+0041.800 (0) Table zwh_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0041.801 (0) Table zwh_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=839) in 0.00 seconds
+0041.803 (0) Table zwh_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0041.806 (0) Table zwh_woocommerce_sessions: Total expected rows (via COUNT): 5
+0041.807 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.808 (0) Table zwh_woocommerce_sessions: Rows added in this batch (next record: 142): 5 (uncompressed bytes in this segment=11129) in 0.00 seconds
+0041.810 (0) Table zwh_woocommerce_sessions: finishing file(s) (2, 2 KB)
+0041.814 (0) Table zwh_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0041.815 (0) Table zwh_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=864) in 0.00 seconds
+0041.817 (0) Table zwh_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0041.821 (0) Table zwh_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0041.821 (0) Table zwh_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=769) in 0.00 seconds
+0041.823 (0) Table zwh_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0041.827 (0) Table zwh_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0041.828 (0) Table zwh_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=631) in 0.00 seconds
+0041.830 (0) Table zwh_woocommerce_shipping_zones: finishing file(s) (2, 0.3 KB)
+0041.834 (0) Table zwh_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0041.835 (0) Table zwh_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=846) in 0.00 seconds
+0041.837 (0) Table zwh_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0041.841 (0) Table zwh_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0041.842 (0) Table zwh_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1289) in 0.00 seconds
+0041.844 (0) Table zwh_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0041.852 (0) Table zwh_yoast_indexable: Total expected rows (via COUNT): 218
+0041.853 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.860 (0) Table zwh_yoast_indexable: Rows added in this batch (next record: 241): 218 (uncompressed bytes in this segment=124344) in 0.01 seconds
+0041.865 (0) Table zwh_yoast_indexable: finishing file(s) (2, 15.4 KB)
+0041.868 (0) Table zwh_yoast_indexable_hierarchy: Total expected rows (approximate): 213
+0041.870 (0) Table zwh_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 214 (uncompressed bytes in this segment=4351) in 0.00 seconds
+0041.873 (0) Table zwh_yoast_indexable_hierarchy: finishing file(s) (2, 0.9 KB)
+0041.877 (0) Table zwh_yoast_migrations: Total expected rows (via COUNT): 25
+0041.878 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.879 (0) Table zwh_yoast_migrations: Rows added in this batch (next record: 25): 25 (uncompressed bytes in this segment=1253) in 0.00 seconds
+0041.881 (0) Table zwh_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0041.885 (0) Table zwh_yoast_primary_term: Total expected rows (via COUNT): 23
+0041.886 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.888 (0) Table zwh_yoast_primary_term: Rows added in this batch (next record: 26): 23 (uncompressed bytes in this segment=2811) in 0.01 seconds
+0041.890 (0) Table zwh_yoast_primary_term: finishing file(s) (2, 0.9 KB)
+0041.894 (0) Table zwh_yoast_seo_links: Total expected rows (via COUNT): 33
+0041.894 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0041.895 (0) Table zwh_yoast_seo_links: Rows added in this batch (next record: 107): 33 (uncompressed bytes in this segment=6478) in 0.00 seconds
+0041.897 (0) Table zwh_yoast_seo_links: finishing file(s) (2, 1.2 KB)
+0041.897 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/customer/www/staging.gogarbagegrabber.com/public_html/wp-content/updraft/backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz (line 1923, wp-content/plugins/updraftplus/backup.php)
+0041.898 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_options.table.tmpr10131.gz (1/58/fopen): adding to final database dump
+0041.900 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_options.table.gz (2/58/fopen): adding to final database dump
+0041.900 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_users.table.tmpr2.gz (3/58/fopen): adding to final database dump
+0041.901 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_users.table.gz (4/58/fopen): adding to final database dump
+0041.901 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_usermeta.table.tmpr91.gz (5/58/fopen): adding to final database dump
+0041.901 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_usermeta.table.gz (6/58/fopen): adding to final database dump
+0041.901 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_actions.table.tmpr1721.gz (7/58/fopen): adding to final database dump
+0041.902 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_actions.table.gz (8/58/fopen): adding to final database dump
+0041.902 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_claims.table.tmpr0.gz (9/58/fopen): adding to final database dump
+0041.902 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_claims.table.gz (10/58/fopen): adding to final database dump
+0041.903 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_groups.table.tmpr11.gz (11/58/fopen): adding to final database dump
+0041.903 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_groups.table.gz (12/58/fopen): adding to final database dump
+0041.903 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_logs.table.tmpr5040.gz (13/58/fopen): adding to final database dump
+0041.904 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_actionscheduler_logs.table.gz (14/58/fopen): adding to final database dump
+0041.904 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_commentmeta.table.tmpr5.gz (15/58/fopen): adding to final database dump
+0041.904 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_commentmeta.table.gz (16/58/fopen): adding to final database dump
+0041.904 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_comments.table.tmpr12.gz (17/58/fopen): adding to final database dump
+0041.905 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_comments.table.gz (18/58/fopen): adding to final database dump
+0041.905 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_links.table.tmpr0.gz (19/58/fopen): adding to final database dump
+0041.905 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_links.table.gz (20/58/fopen): adding to final database dump
+0041.905 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_postmeta.table.tmpr9417.gz (21/58/fopen): adding to final database dump
+0041.910 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_postmeta.table.gz (22/58/fopen): adding to final database dump
+0041.910 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_posts.table.tmpr1971.gz (23/58/fopen): adding to final database dump
+0041.911 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_posts.table.gz (24/58/fopen): adding to final database dump
+0041.911 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_term_relationships.table.tmpr100001.gz (25/58/fopen): adding to final database dump
+0041.911 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_term_relationships.table.gz (26/58/fopen): adding to final database dump
+0041.911 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_term_taxonomy.table.tmpr183.gz (27/58/fopen): adding to final database dump
+0041.912 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_term_taxonomy.table.gz (28/58/fopen): adding to final database dump
+0041.912 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_termmeta.table.tmpr171.gz (29/58/fopen): adding to final database dump
+0041.912 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_termmeta.table.gz (30/58/fopen): adding to final database dump
+0041.912 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_terms.table.tmpr183.gz (31/58/fopen): adding to final database dump
+0041.913 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_terms.table.gz (32/58/fopen): adding to final database dump
+0041.913 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_category_lookup.table.tmpr1001.gz (33/58/fopen): adding to final database dump
+0041.913 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_category_lookup.table.gz (34/58/fopen): adding to final database dump
+0041.913 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_product_meta_lookup.table.tmpr1945.gz (35/58/fopen): adding to final database dump
+0041.914 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_product_meta_lookup.table.gz (36/58/fopen): adding to final database dump
+0041.914 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_reserved_stock.table.tmpr1.gz (37/58/fopen): adding to final database dump
+0041.914 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_reserved_stock.table.gz (38/58/fopen): adding to final database dump
+0041.915 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_tax_rate_classes.table.tmpr3.gz (39/58/fopen): adding to final database dump
+0041.915 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_tax_rate_classes.table.gz (40/58/fopen): adding to final database dump
+0041.915 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_order_itemmeta.table.tmpr166.gz (41/58/fopen): adding to final database dump
+0041.916 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_order_itemmeta.table.gz (42/58/fopen): adding to final database dump
+0041.916 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/58/fopen): adding to final database dump
+0041.916 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_payment_tokenmeta.table.gz (44/58/fopen): adding to final database dump
+0041.916 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_e_events.table.tmpr0.gz (45/58/fopen): adding to final database dump
+0041.917 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_e_events.table.gz (46/58/fopen): adding to final database dump
+0041.917 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_sgs_log_events.table.tmpr3168.gz (47/58/fopen): adding to final database dump
+0041.917 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_sgs_log_events.table.gz (48/58/fopen): adding to final database dump
+0041.917 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_sgs_log_visitors.table.tmpr61.gz (49/58/fopen): adding to final database dump
+0041.918 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_sgs_log_visitors.table.gz (50/58/fopen): adding to final database dump
+0041.918 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_admin_note_actions.table.tmpr6857.gz (51/58/fopen): adding to final database dump
+0041.919 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_admin_note_actions.table.gz (52/58/fopen): adding to final database dump
+0041.919 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_admin_notes.table.tmpr77.gz (53/58/fopen): adding to final database dump
+0041.919 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_admin_notes.table.gz (54/58/fopen): adding to final database dump
+0041.920 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_customer_lookup.table.tmpr3.gz (55/58/fopen): adding to final database dump
+0041.920 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_customer_lookup.table.gz (56/58/fopen): adding to final database dump
+0041.920 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_download_log.table.tmpr0.gz (57/58/fopen): adding to final database dump
+0041.920 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_download_log.table.gz (58/58/fopen): adding to final database dump
+0041.921 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_addresses.table.tmpr18.gz (59/58/fopen): adding to final database dump
+0041.921 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_addresses.table.gz (60/58/fopen): adding to final database dump
+0041.921 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_coupon_lookup.table.tmpr1.gz (61/58/fopen): adding to final database dump
+0041.921 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_coupon_lookup.table.gz (62/58/fopen): adding to final database dump
+0041.922 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_operational_data.table.tmpr33.gz (63/58/fopen): adding to final database dump
+0041.922 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_operational_data.table.gz (64/58/fopen): adding to final database dump
+0041.922 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_product_lookup.table.tmpr1001.gz (65/58/fopen): adding to final database dump
+0041.922 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_product_lookup.table.gz (66/58/fopen): adding to final database dump
+0041.923 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_stats.table.tmpr1971.gz (67/58/fopen): adding to final database dump
+0041.923 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_stats.table.gz (68/58/fopen): adding to final database dump
+0041.923 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_tax_lookup.table.tmpr1.gz (69/58/fopen): adding to final database dump
+0041.924 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_order_tax_lookup.table.gz (70/58/fopen): adding to final database dump
+0041.924 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_orders.table.tmpr1971.gz (71/58/fopen): adding to final database dump
+0041.924 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_orders.table.gz (72/58/fopen): adding to final database dump
+0041.924 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_orders_meta.table.tmpr201.gz (73/58/fopen): adding to final database dump
+0041.925 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_orders_meta.table.gz (74/58/fopen): adding to final database dump
+0041.925 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_product_attributes_lookup.table.tmpr1.gz (75/58/fopen): adding to final database dump
+0041.925 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_product_attributes_lookup.table.gz (76/58/fopen): adding to final database dump
+0041.925 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_product_download_directories.table.tmpr3.gz (77/58/fopen): adding to final database dump
+0041.925 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_product_download_directories.table.gz (78/58/fopen): adding to final database dump
+0041.926 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_rate_limits.table.tmpr0.gz (79/58/fopen): adding to final database dump
+0041.926 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_rate_limits.table.gz (80/58/fopen): adding to final database dump
+0041.926 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_webhooks.table.tmpr0.gz (81/58/fopen): adding to final database dump
+0041.926 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_wc_webhooks.table.gz (82/58/fopen): adding to final database dump
+0041.927 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_api_keys.table.tmpr0.gz (83/58/fopen): adding to final database dump
+0041.927 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_api_keys.table.gz (84/58/fopen): adding to final database dump
+0041.927 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_attribute_taxonomies.table.tmpr0.gz (85/58/fopen): adding to final database dump
+0041.927 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_attribute_taxonomies.table.gz (86/58/fopen): adding to final database dump
+0041.928 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_downloadable_product_permissions.table.tmpr0.gz (87/58/fopen): adding to final database dump
+0041.928 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_downloadable_product_permissions.table.gz (88/58/fopen): adding to final database dump
+0041.928 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_log.table.tmpr0.gz (89/58/fopen): adding to final database dump
+0041.928 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_log.table.gz (90/58/fopen): adding to final database dump
+0041.929 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_order_items.table.tmpr27.gz (91/58/fopen): adding to final database dump
+0041.929 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_order_items.table.gz (92/58/fopen): adding to final database dump
+0041.929 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_payment_tokens.table.tmpr0.gz (93/58/fopen): adding to final database dump
+0041.929 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_payment_tokens.table.gz (94/58/fopen): adding to final database dump
+0041.930 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_sessions.table.tmpr143.gz (95/58/fopen): adding to final database dump
+0041.930 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_sessions.table.gz (96/58/fopen): adding to final database dump
+0041.930 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_shipping_zone_locations.table.tmpr0.gz (97/58/fopen): adding to final database dump
+0041.931 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_shipping_zone_locations.table.gz (98/58/fopen): adding to final database dump
+0041.931 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_shipping_zone_methods.table.tmpr0.gz (99/58/fopen): adding to final database dump
+0041.932 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_shipping_zone_methods.table.gz (100/58/fopen): adding to final database dump
+0041.932 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_shipping_zones.table.tmpr0.gz (101/58/fopen): adding to final database dump
+0041.932 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_shipping_zones.table.gz (102/58/fopen): adding to final database dump
+0041.932 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_tax_rate_locations.table.tmpr0.gz (103/58/fopen): adding to final database dump
+0041.933 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_tax_rate_locations.table.gz (104/58/fopen): adding to final database dump
+0041.933 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_tax_rates.table.tmpr0.gz (105/58/fopen): adding to final database dump
+0041.933 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_woocommerce_tax_rates.table.gz (106/58/fopen): adding to final database dump
+0041.934 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_indexable.table.tmpr242.gz (107/58/fopen): adding to final database dump
+0041.934 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_indexable.table.gz (108/58/fopen): adding to final database dump
+0041.934 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_indexable_hierarchy.table.tmpr1001.gz (109/58/fopen): adding to final database dump
+0041.934 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_indexable_hierarchy.table.gz (110/58/fopen): adding to final database dump
+0041.935 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_migrations.table.tmpr26.gz (111/58/fopen): adding to final database dump
+0041.935 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_migrations.table.gz (112/58/fopen): adding to final database dump
+0041.935 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_primary_term.table.tmpr27.gz (113/58/fopen): adding to final database dump
+0041.935 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_primary_term.table.gz (114/58/fopen): adding to final database dump
+0041.936 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_seo_links.table.tmpr108.gz (115/58/fopen): adding to final database dump
+0041.936 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db-table-zwh_yoast_seo_links.table.gz (116/58/fopen): adding to final database dump
+0041.939 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz: finished writing out complete database file (1450.1 KB)
+0041.953 (0) Total database tables backed up: 58 (backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz, size: 1485032, sha1: 240b7d061bfef6a358726f8693806379f36f5fa4, sha256: 878a9ee820ad8c900f45f383351bf040b3dea3ce5c1baa484077137cca845b6f)
+0041.956 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip: plugins: This file has already been successfully uploaded
+0041.956 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip: themes: This file has already been successfully uploaded
+0041.956 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip: uploads: This file has already been successfully uploaded
+0041.956 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip: uploads: This file has already been successfully uploaded
+0041.957 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip: others: This file has already been successfully uploaded
+0041.957 (0) backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0041.957 (0) Saving backup history. Total backup size: 488.6 MB
+0041.958 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0041.960 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0041.960 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0cdf26541a13a01695d83e54362e6a01)
+0042.142 (0) Google Drive: quota usage: used=12568.6 MB, total=102400 MB, available=89831.4 MB
+0042.143 (0) Google Drive: backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz: Attempting to upload to Google Drive (into folder id: 117enwE77yfNlTJhXDfUpd6w9TF30EhGY)
+0042.577 (0) Googledrive chunked upload: 70.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 101 / 134)
+0043.688 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0043.690 (0) Google Drive: OK: Archive backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz uploaded in 1.55 seconds
+0043.690 (0) Recording as successfully uploaded: backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz
+0043.692 (0) Deleting local file: backup_2026-02-19-0742_My_WordPress_694e82452c5e-db.gz: OK
+0043.693 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0043.694 (0) Number of backup sets in history: 3; groups (db): 1
+0043.694 (0) Examining (for databases) backup set with group_id=0, nonce=694e82452c5e, datestamp=1771486968 (Feb 19 2026 07:42:48)
+0043.694 (0) This backup set is the backup set just made, so will not be deleted.
+0043.694 (0) Examining (for databases) backup set with group_id=0, nonce=6cc5c07bae27, datestamp=1771403593 (Feb 18 2026 08:33:13)
+0043.694 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0043.694 (0) Examining (for databases) backup set with group_id=0, nonce=17b1c3f7f4d6, datestamp=1771314566 (Feb 17 2026 07:49:26)
+0043.694 (0) 1771314566: db: this set includes a database (backup_2026-02-17-0749_My_WordPress_17b1c3f7f4d6-db.gz); db count is now 2
+0043.694 (0) 1771314566: db: over retain limit (2); will delete this database
+0045.197 (0) Google Drive: backup_2026-02-17-0749_My_WordPress_17b1c3f7f4d6-db.gz: Deletion successful
+0045.200 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0045.201 (0) Number of backup sets in history: 3; groups (files): 1
+0045.201 (0) Examining (for files) backup set with nonce=694e82452c5e, datestamp=1771486968 (Feb 19 2026 07:42:48)
+0045.201 (0) This backup set is the backup set just made, so will not be deleted.
+0045.201 (0) This backup set is the backup set just made, so will not be deleted.
+0045.202 (0) This backup set is the backup set just made, so will not be deleted.
+0045.202 (0) This backup set is the backup set just made, so will not be deleted.
+0045.202 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0045.202 (0) Examining (for files) backup set with nonce=6cc5c07bae27, datestamp=1771403593 (Feb 18 2026 08:33:13)
+0045.202 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0045.202 (0) Examining (for files) backup set with nonce=17b1c3f7f4d6, datestamp=1771314566 (Feb 17 2026 07:49:26)
+0045.202 (0) plugins: over retain limit (2); will delete this file entity
+0045.202 (0) themes: over retain limit (2); will delete this file entity
+0045.202 (0) uploads: over retain limit (2); will delete this file entity
+0045.202 (0) others: over retain limit (2); will delete this file entity
+0046.217 (0) Google Drive: backup_2026-02-17-0749_My_WordPress_17b1c3f7f4d6-others.zip: Deletion successful
+0046.592 (0) Google Drive: backup_2026-02-17-0749_My_WordPress_17b1c3f7f4d6-uploads2.zip: Deletion successful
+0047.160 (0) Google Drive: backup_2026-02-17-0749_My_WordPress_17b1c3f7f4d6-uploads.zip: Deletion successful
+0048.685 (0) Google Drive: backup_2026-02-17-0749_My_WordPress_17b1c3f7f4d6-themes.zip: Deletion successful
+0049.300 (0) Google Drive: backup_2026-02-17-0749_My_WordPress_17b1c3f7f4d6-plugins.zip: Deletion successful
+0049.302 (0) This backup set is now empty; will remove from history
+0049.303 (0) Deleting log file (log.17b1c3f7f4d6.txt)
+0049.304 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0049.306 (0) Resume backup (694e82452c5e, 0): finish run
+0049.307 (0) Decremented the semaphore (fd) by 1
+0049.307 (0) Semaphore (fd) unlocked
+0049.308 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0049.309 (0) Deleting zip manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-plugins.zip.list.tmp)
+0049.310 (0) Deleting zip manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-themes.zip.list.tmp)
+0049.310 (0) Deleting zip manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads.zip.list.tmp)
+0049.311 (0) Deleting zip manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-uploads2.zip.list.tmp)
+0049.311 (0) Deleting zip manifest (backup_2026-02-19-0742_My_WordPress_694e82452c5e-others.zip.list.tmp)
+0049.312 (0) No email will/can be sent - the user has not configured an email address.
+0049.312 (0) The backup succeeded and is now complete
